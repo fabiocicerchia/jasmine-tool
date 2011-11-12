@@ -35,8 +35,8 @@ Specifies where to load specs from
 ####build_cmd
 In monitor mode : specify here a command to execute when files change but before browser reloads and specs rerun. For example a build command.
 
-### ConsoleReporter
-#### mutePassed (`true` | `false`)
+### console_reporter
+#### mute_passed (`true` | `false`)
 When `true`, don't print in the console the result of specs that were successfuly passed.
 
 ### externals
