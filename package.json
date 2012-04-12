@@ -11,12 +11,12 @@
   ,"version"       : "0.2.9"
   ,"dependencies":{
     "express":"~2.5"
-    ,"coffee-script": "1.0.1"
-    ,"socket.io":"0.8.5"
-    ,"webworker":"0.8.3"
-    ,"colors":"0.3.0"
-    ,"growl":"1.2.0"
-    ,"libnotify":"1.0.1"
-    ,"jade":"0.6.0"
+    ,"coffee-script": ">=1.0.1"
+    ,"socket.io":">=0.8.5"
+    ,"webworker":">=0.8.3"
+    ,"colors":">=0.3.0"
+    ,"growl":">=1.2.0"
+    ,"libnotify":">=1.0.1"
+    ,"jade":">=0.6.0"
   }
 }
